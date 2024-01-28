@@ -1,0 +1,9 @@
+body {
+    background-color: bisque;
+}
+
+.input {
+    border: 1px solid black;
+    height: 100px;
+    width: 180px;
+}
